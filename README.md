@@ -6,7 +6,7 @@ NestJS, graphQL, RestAPI, MySQL, typeORM, Redis, docker, JWT, passport, GCP(kube
 chatGPT API
 
 # 기능 구현
-쇼핑몰 backend
+증고거래 backend
 #1 소셜로그인 (구글, 네이버, 카카오) , 일반 회원가입
 #2 결제 (iamport)
 #3 상품 crud
